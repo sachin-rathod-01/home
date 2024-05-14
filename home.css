@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:url(./image/888920.png);
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+nav{
+    background-color: rgba(255, 127, 240, 0.63);
+    width: 12%;
+    height: 250vh ;
+}
+#sumit{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: brown;
+    display: block;
+}
+a:hover{
+    color: beige;
+    background-color: chartreuse;
+}
+ /* }
+ #sahil{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    background-color: rgba(1, 0, 88, 0.571);
+     position: absolute;
+     top: 0px;
+     left: 13px%; 
+     display: none;
+ } */
+ #pr{
+    position: relative;
+ }
+ #pr:hover #sahil
+ {
+    display: block;
+    position: absolute;
+    left: 170px;
+}
